@@ -1,5 +1,5 @@
 # 로그인
-upbit = pyupbit.Upbit(xvjr7bm7WW78ZU2g4k3qZHZ3qksF2xqpN4aJIye4, cPuXtUYH2E5QyfiOjPzv8DZ5CuCpYoXYG1VG8Jdw)
+upbit = pyupbit.Upbit(,)
 print("autotrade start")
 # 자동매매 시작
 while True:
